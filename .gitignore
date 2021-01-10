@@ -1,4 +1,7 @@
+.idea/
+.vscode/
 data/
+../SpatialTis/tutorial/nbcell_reset.py
 
 # DS store
 .DS_Store
